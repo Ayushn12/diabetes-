@@ -52,10 +52,8 @@ This project uses machine learning to predict high glucose levels (potential dia
 - Random Forest performed best for predicting diabetes risk.
 - Key features: BMI, blood pressure, age, cholesterol.
 
-## License
 
-This project is for educational purposes.
 
 ## Author
 
-Created by [Your
+Created by Ayush
